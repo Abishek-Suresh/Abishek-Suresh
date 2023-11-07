@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abishek-S
-- 👀 I’m interested in chatbots, machine learning and webscraping
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on cool projects which involves ML and python development
+- 👀 I’m interested in Data analysis and visualization, webscraping.
+- 🌱 I’m currently learning SQL, Excel and PowerBI.
+- 💞️ I’m looking to collaborate on cool projects which involves Data to analyze.
 - 📫 How to reach me : https://www.linkedin.com/in/abishek-s-81001/
 
 <!---
