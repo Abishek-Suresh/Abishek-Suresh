@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Abishek S
-- 👀 An Aspiring SOC analyst exploring the exciting world of cybersecurity and experienced in developing PowerBI dashboards.
-- 🌱 I’m currently learning the SOC Level 1 pathway from [Tryhackme](https://tryhackme.com/p/AbishekSuresh).
+- 👀 Analyst with experience in enterprise SAP configuration and workflow optimization, now pivoting toward a career in security operations. 
+- 🌱 Proficient in Microsoft Cloud security operations and log analysis, with a strong focus on enhancing network defense and overall security posture through the effective use of SIEM and related security tools and experienced in developing PowerBI dashboards.
+- ✨ Top 3 % in [TryHackMe](https://tryhackme.com/P/AbishekSuresh) completing the SOC Analyst L1 Pathway and related CTF style labs.
+- ⭐ Currently exploring Solidity and Ethereum Blockchain Programming.
 - 💞️ I’m looking to collaborate on SOC projects, Red Teaming simulations, and security automation.
-- 📫 How to reach me : https://www.linkedin.com/in/abishek-s-81001/
+- 📫 How to reach me : [My Linkedin](https://www.linkedin.com/in/abishek-s-81001/)
 
 
 <!---
